@@ -1,0 +1,574 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A curious collection of prints and dravvings, by the best engravers and greatest masters in the world. Fit only for persons of quality and gentlemen, which are the virtuoso's of the age. All fair and curiously preserved. To be sold by auction, on Wednesday the 12th. of this instant November, where the late curious sale of paintings was exposed, next Bedford-Gate in York-street in Covent Garden. To be sold by Edward Millinton. There will be immediately after, a sale of paintings much exceeding the last in that place. To begin at half an hour past two of the clock precisely. To be seen the Tuesday, and each forenoon before the [...]</title>
+            <author>Millington, Edward, d. 1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35499</idno>
+            <idno type="STC">Wing C7672</idno>
+            <idno type="STC">ESTC R214433</idno>
+            <idno type="EEBO-CITATION">99826608</idno>
+            <idno type="PROQUEST">99826608</idno>
+            <idno type="VID">31011</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35499)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31011)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1828:56)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A curious collection of prints and dravvings, by the best engravers and greatest masters in the world. Fit only for persons of quality and gentlemen, which are the virtuoso's of the age. All fair and curiously preserved. To be sold by auction, on Wednesday the 12th. of this instant November, where the late curious sale of paintings was exposed, next Bedford-Gate in York-street in Covent Garden. To be sold by Edward Millinton. There will be immediately after, a sale of paintings much exceeding the last in that place. To begin at half an hour past two of the clock precisely. To be seen the Tuesday, and each forenoon before the [...]</title>
+                  <author>Millington, Edward, d. 1703.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Art auctions --  England --  London --  Early works to 1800.</term>
+               <term>Art --  England --  Catalogs --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="auction_catalogue">
+            <pb facs="tcp:31011:1"/>
+            <!-- PDF PAGE 55 -->
+            <pb facs="tcp:31011:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 55 -->
+            <head>A Curious COLLECTION OF PRINTS AND DRAVVINGS, By the beſt Engravers and Greateſt MASTERS in the <hi>WORLD.</hi>
+            </head>
+            <p>
+               <hi>Fit only for Perſons of Quality and Gentlemen, which are the</hi> VIRTUOSO's <hi>of the Age. All Fair and Curiouſly Preſerved.</hi>
+            </p>
+            <p>To be ſold by Auction, on Wedneſday the 12th. of this Inſtant <hi>November,</hi> where the late Curious Sale of <hi>Paintings</hi> was Expoſed, next <hi>Bedford-Gate</hi> in <hi>York<g ref="char:EOLhyphen"/>street</hi> in <hi>Covent Garden.</hi>
+            </p>
+            <p>To be ſold by <hi>Edward Millinton.</hi>
+            </p>
+            <p>There will be immediately after, a Sale of Paintings much exceeding the laſt in that Place.</p>
+            <p>To begin at half an hour paſt Two of the Clock preciſely. To be ſeen the <hi>Tueſday,</hi> and each Forenoon before the
+<gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <div type="notice">
+               <pb facs="tcp:31011:2"/>
+               <!-- PDF PAGE 56 -->
+               <p>VVHereas many Auctions have been kept for the more Indifferent Judgments, we thought fit for the benefit of the <hi>Virtuoſo</hi>'s, and more Underſtanding Gentry, to ſelect out of vaſt Numbers, ſuch as for their Fairneſs and rarety of their Blackneſs will doubtleſs be admired by all that ſee them, ſuch perſons onely are deſired to come. Thoſe which are ſlight or defaced being reſerved for other Time and Place, and ano<g ref="char:EOLhyphen"/>ther ſort of People.</p>
+               <p>'Tis hop'd therefore a true Eſtimate will be ſet upon ſuch valuable Curioſities.</p>
+               <closer>
+                  <salute>Valete.</salute>
+               </closer>
+            </div>
+            <div type="conditions_of_sale">
+               <head>The Conditions of SALE.</head>
+               <list>
+                  <item>
+                     <hi>I.</hi> HE who bids moſt is the Buyer: If any Difference ariſe, the Prints to be put to Sale again.</item>
+                  <item>
+                     <hi>II.</hi> The Money to be paid at the place of Sale within Three Days after the Sale is ended.</item>
+                  <item>
+                     <hi>III.</hi> That all Gentlemen give their Names and Places of abode, and Earneſt for what they buy, otherwiſe to pay down the whole Sum.</item>
+               </list>
+            </div>
+            <div type="list_of_prints">
+               <pb n="1" facs="tcp:31011:2"/>
+               <!-- PDF PAGE 56 -->
+               <head>
+                  <hi>ITALIAN</hi> PRINTS.</head>
+               <list>
+                  <item>1 ALexanders Triumph of Marc. Antoine after Raphael Urbinas.</item>
+                  <item>2 The 3 Graciae of Marc. Antoine after Raphael.</item>
+                  <item>3 David and Goliah after Raphael by G. da Carpo.
+<list>
+                        <item>—Moſes in the Deſert after Raphael.</item>
+                     </list>
+                  </item>
+                  <item>4 S. Laurence of Marc. Antoine after Bacci Bandinelli.</item>
+                  <item>5 Aeneas and Anchiſes by Raphael.</item>
+                  <item>6 Schola Terreſtris. S. Paulus Athenis — 
+<list>
+                        <item>Epicuraeos docens by Raphael. two ſheets.</item>
+                     </list>
+                  </item>
+                  <item>7 Schola Coeleſtis by Geo. Mantuanus after Raphael. two ſheets.</item>
+                  <item>8 Chriſt from the Croſs after Raphael by Aug. Venetian</item>
+                  <item>9 Mars and Venus after Raphael by Marc. Antoine.</item>
+                  <item>10 Two prints after Raphael by Sylveſter de Ravennas.</item>
+                  <item>11 Nuptiae in Cana Galilaea of the new etching of Paulo Veroneſe.</item>
+                  <item>12 Polycrates upon the Croſs by Salvator Roſa.</item>
+                  <item>13 S. Rochus by Guido after Annibal Carratz</item>
+                  <item>14 Three rare Prints of Guido Rheni</item>
+                  <item>15 2 prints of Beatricius</item>
+                  <item>16 2 prints of Camillo Procacino</item>
+                  <item>17 9 prints of Parmens</item>
+                  <item>18 Arches of Mich. Angelo</item>
+                  <item>19 2 of Paulo Farinato</item>
+                  <item>20 a Madona finely ingraved</item>
+                  <item>21 a print of Andrea del Sarto ingraved by Cher. Alberti.</item>
+                  <item>22 Chriſti deſcenſus a cruce by J. Bapt. de Cavalleriis after Pomp. Aquilanus.</item>
+                  <item>23 Vaſtatio Trojae by Aug. Carratz after Barocius.</item>
+                  <item>24 Suſanna and the 2 Elders by Annibal Carratz</item>
+                  <item>25 S. Hieronymus of Annibal Carraccio his new etching A Madona by Aug. Carraccio.</item>
+                  <item>26 Venus and Cupid by Annibal Caratz Priapi Sacra</item>
+                  <item>27 Venus by Julio Romano. S. Hieronym by Villamena.</item>
+                  <item>28 3 prints of Spanpletti</item>
+                  <item>29 S. Laurens by Corn. Cort after Titian</item>
+                  <item>30 Monoculi or Cyclopes in Lipara Brixiae by Corn. Cort from an Antiq. Marmor. The Lords Supper Livy Folivet.</item>
+                  <item>31 Xaverius moriens by Hannibal Carratz Conſtantinus M. Sylveſtro Papae reſignans claves caelorum.</item>
+                  <item>
+                     <pb n="2" facs="tcp:31011:3"/>
+                     <!-- PDF PAGE 57 -->
+32 S. Petrus claves tradens Loyolae Crucifixio by Sadelaer</item>
+                  <item>33 S. Catharina ditto S. Stephanus by Carratz</item>
+                  <item>34 Madona by Edeling a Madona by Natalis</item>
+                  <item>35 a Madona by van Schupper</item>
+                  <item>36 a Madona after Pouſin</item>
+                  <item>37 2 prints ditto</item>
+                  <item>38 a print of Rouſelet</item>
+                  <item>39 a print ditto after Mr. le Brun</item>
+                  <item>40 S. Maria by Edeling after Champanie</item>
+                  <item>41 5 prints ex collectione Ludovici (abſit verbo invidia) Magni T.</item>
+                  <item>42 S. Caecilia after Raphael by Picart</item>
+                  <item>43 The peſthouſe of Pouſin ditto</item>
+                  <item>44 Stephani Lapidatio by Mr. le Brun</item>
+                  <item>45 The 4 Evangeliſts ditto</item>
+                  <item>46 a print by Mignard another by Villequin.</item>
+                  <item>47 the 2 cheif prints of Van Dyck</item>
+                  <item>48 5 Landskips by Rubens</item>
+                  <item>49 the 2 cheif prints ditto</item>
+                  <item>50 Luciferi lapſus ditto</item>
+                  <item>51 2 fine prints ditto</item>
+                  <item>52 2 more ditto</item>
+                  <item>53 Nativitas principis Hylas a Nymphis raptus per Sul. Roman.</item>
+                  <item>54 Baſſan fig. 10.</item>
+                  <item>55 S. Joannis in deſerto a drawing of Mr. le Brun</item>
+                  <item>56 Helene raptus a drawing by Camillo Procarcino.</item>
+                  <item>57 Harpocrates by Bacci Bandinelli</item>
+                  <item>58 a head by Renbrant a boy of Pordenon</item>
+                  <item>59 a fine naked piece of a Gentlewomen by the famous Laroen.</item>
+                  <item>60 a Sacrifice by La Roſſe.</item>
+                  <item>61 Chinenſium clinopale</item>
+                  <item>62 a Cormandel Oliver and Lamberts Wife</item>
+                  <item>63 4 of Bantam <hi>The Paper Book of</hi> Elephants <hi>Paper.</hi>
+                  </item>
+                  <item>64 Jacobus 2. by Vander Banck
+<list>
+                        <item>— by La Roſſe <hi>Parcere ſubjectis.</hi>
+                        </item>
+                        <item>— Monmouth in the Weſt by La Roſſe</item>
+                     </list>
+                  </item>
+                  <item>65 M. vander Merilen</item>
+                  <item>66 Jacobus 2<g ref="char:punc">▪</g> &amp; Maria Modena.</item>
+                  <item>67 Guilielmus Rex Britanniae, Hiberniae vero conqueſtor cum Maria Regina.</item>
+                  <item>68 2 Ladies by Mr. Kneller</item>
+                  <item>
+                     <pb n="3" facs="tcp:31011:3"/>
+                     <!-- PDF PAGE 57 -->
+69 M. Lambert and Mr. Richards by Mr. Kneller.</item>
+                  <item>70 4 rare Heads by Van Dyck never ſeen in this Kingd.</item>
+                  <item>71 Daniel Delgerut by Fulck very rare.</item>
+                  <item>72 the 12 Months by Sadler prints 6.</item>
+                  <item>73 5 Landskips by Pouſin.</item>
+                  <item>74 Nativitas Chriſti by Goltzium, 6 prints very fair</item>
+                  <item>75 2 prints of Vander Meulen</item>
+                  <item>76 4 prints of ditto</item>
+                  <item>77 Ludovicus G. R. by Edeling after le Brun</item>
+                  <item>78 Crucifixio Mr. le Brun ingraven very fine by Edeling</item>
+                  <item>79 Luciferi lapſus by Edeling after Mr. le Brun.</item>
+                  <item>80 7 Landskips by Pouſin.</item>
+                  <item>81 4 Cieling pieces of Mr. le Brun.</item>
+                  <item>82 A Theſet by Edeling.</item>
+                  <item>83 A Head by Polly.</item>
+                  <item>84 Alexandri Tropaea by Petr. Beretin Cortonenſis, ex quaſua deſumpſit Carl. le Brun.
+<list>
+                        <item>— a print by vander Meulen.</item>
+                     </list>
+                  </item>
+                  <item>85 a very fine print by Audran after Mignard.</item>
+               </list>
+               <list>
+                  <head>The Portofolio.</head>
+                  <item>86 4 Heads of Cl. Mellan</item>
+                  <item>87 4 ſelect Heads by Cl. Mellan</item>
+                  <item>88 D. Paulus in extaſi</item>
+                  <item>89 3 by the ſame Mellan.</item>
+                  <item>90 3 ditto</item>
+                  <item>91 3 ditto</item>
+                  <item>92 5 Madona's ditto</item>
+                  <item>93 2 ditto</item>
+                  <item>94 2 ditto</item>
+                  <item>95 The Crucifix by ditto</item>
+                  <item>96 3 Muſes by the ſame incomparable Mellan</item>
+                  <item>97 3 ditto</item>
+                  <item>98 3 ditto</item>
+                  <item>99 3 ditto</item>
+                  <item>100 a print after Tintret by Mellan</item>
+               </list>
+               <list>
+                  <head>The Paper Book.</head>
+                  <item>101 Petri Teſtae Hiſtoria filii Prodigi 4 prints</item>
+                  <item>102 2 prints by Teſta</item>
+                  <item>103 4 prints ditto</item>
+                  <item>104 3 ditto</item>
+                  <item>105 2 Madona's ditto</item>
+                  <item>106 3 ditto</item>
+                  <item>107 3 more and Teſta's Head</item>
+                  <item>108 3 ditto</item>
+                  <item>109 2 very fine</item>
+                  <item>110 a print very large well printed</item>
+                  <item>111 ditto very fine</item>
+                  <item>112 ditto more</item>
+                  <item>113 ditto of the ſame incomparable Teſta</item>
+                  <item>114 The Emperors and Empreſſes, 24 by Sadlaer very black curiouſly preſerved.</item>
+                  <item>
+                     <pb n="4" facs="tcp:31011:4"/>
+                     <!-- PDF PAGE 58 -->
+115 Alberti Dureis Effigies, prints 2.</item>
+                  <item>116 S Hieronimi temtatio.</item>
+                  <item>117 Duae ſingulares</item>
+                  <item>118 4 heads of Albert Durer</item>
+                  <item>119 2 more</item>
+                  <item>120 2 Nakeds of the ſame</item>
+                  <item>121 Pandora</item>
+                  <item>122 1 other print</item>
+                  <item>123 S. Hubertus</item>
+                  <item>124 Eraſmi genuina effigies rariſſ.</item>
+                  <item>125 1 other</item>
+                  <item>126 Filius prodigus.</item>
+                  <item>127 S. Hieronymus</item>
+                  <item>128 Melancholia</item>
+                  <item>129 Madona's 5.</item>
+                  <item>130 ditto 5 more</item>
+                  <item>131 ditto 4 more</item>
+                  <item>132 Chriſti nativitas very curious.</item>
+                  <item>133 a Madona by Sadelaar after Albert Durer</item>
+                  <item>134 The Paſſion of Chriſt fig. 21</item>
+                  <item>135 ditto 5 more</item>
+                  <item>136 ditto 3 more</item>
+                  <item>137 ditto 2 more</item>
+                  <item>138 ditto 4 more</item>
+                  <item>139 ditto 2 more</item>
+                  <item>140 2 more of the ſame incomparable Albert Durer finer Ingraver than Marc. Antony.</item>
+               </list>
+               <list>
+                  <head>The Portofolio.</head>
+                  <item>141 A Collection of la Roſſe, prints 8<g ref="char:punc">▪</g>
+                  </item>
+                  <item>142 ditto of the ſame prints 12</item>
+                  <item>143 ditto prints 3</item>
+                  <item>144 ditto 3 more</item>
+                  <item>145 ditto 4 more</item>
+                  <item>146 ditto 11 more</item>
+                  <item>147 ditto 6</item>
+                  <item>148 ditto 3</item>
+                  <item>149 Guilielmus Magnae Britanniae Monarchus</item>
+                  <item>150 the two chief pieces of La Roſſe amanach for K. <hi>Will.</hi>
+                  </item>
+                  <item>151 3 more of la Roſſe</item>
+                  <item>152 2 more very fine</item>
+                  <item>153 2 more</item>
+                  <item>154 Three Bachanalia of La Fage</item>
+                  <item>155 6 more of ditto</item>
+                  <item>156 ditto 8 more in two ſheets</item>
+                  <item>157 ditto 4</item>
+                  <item>158 ditto 3</item>
+                  <item>159 ditto 2 of the ſame large</item>
+                  <item>160 ditto 2 more large</item>
+                  <item>161 3 more of the ſame La Roſſe</item>
+               </list>
+               <list>
+                  <pb n="5" facs="tcp:31011:4"/>
+                  <!-- PDF PAGE 58 -->
+                  <head>A very fair Collection of <hi>Lucas van Leydens</hi> Works.</head>
+                  <item>162 Two divers Heads of Lucas van Leyden.</item>
+                  <item>163 a drawing of himſelf to the life.</item>
+                  <item>164 The prints of ditto</item>
+                  <item>165 The 7 Virtues by ditto</item>
+                  <item>166 4 divers Adams and Eves</item>
+                  <item>167 5 Cain and Abels</item>
+                  <item>168 12 Apoſtles and three others</item>
+                  <item>169 The Head of the Duke of Saxonia</item>
+                  <item>170 6 prints of the ſame</item>
+                  <item>171 The Paſſion fig. 14.</item>
+                  <item>172 Four Evangeliſts</item>
+                  <item>173 4 prints more</item>
+                  <item>174 ditto 12 more</item>
+                  <item>175 6 more</item>
+                  <item>176 6 more</item>
+                  <item>177 ditto 8 more</item>
+                  <item>178 ditto 2 more</item>
+                  <item>179 ditto 3 more</item>
+                  <item>180 3 more of the ſame</item>
+                  <item>181 The Nyleſpiegel Original and three divers Copies.</item>
+                  <item>182 Paſſio rotunda fig. 6.</item>
+                  <item>183 Magorum oblationes</item>
+                  <item>184 S. Pauli converſio</item>
+                  <item>185 Ecce homo</item>
+                  <item>186 Crucifixio</item>
+                  <item>187 Magdalenae Salutatio</item>
+                  <item>188 Sequentes 5.</item>
+                  <item>189 3 more</item>
+                  <item>190 Saul Poſſeſſus a Diabolo</item>
+                  <item>191 Adam &amp; Eva diverſae a precedentibus</item>
+                  <item>192 7 more of the ſame</item>
+                  <item>193 Paſſio fig. 14.</item>
+                  <item>194 6 more of the ſame.</item>
+                  <item>195 Wood cuts, fig. 14.</item>
+                  <item>196 a very fine one</item>
+               </list>
+               <list>
+                  <head>The Portofolio.</head>
+                  <item>197 a Collection of Callot's pcs fig. 400</item>
+                  <item>198 a Collection of de la Bella and Sylveſter fig. 200</item>
+                  <item>199 Hans Sibalbheen fig. 11.</item>
+                  <item>200 ditto fig. 20.</item>
+                  <item>201 ditto fig. 18.</item>
+                  <item>202 ditto fig. 5.</item>
+                  <item>203 ditto of the ſame 25.</item>
+                  <item>204 ditto 18 more</item>
+                  <item>205 ditto of the ſame fig. 20.</item>
+                  <item>206 fig. 41 more</item>
+                  <item>207 Item fig. 10.</item>
+                  <item>
+                     <pb n="6" facs="tcp:31011:5"/>
+                     <!-- PDF PAGE 59 -->
+208 Item of the ſame prints 35</item>
+                  <item>209 Item ditto 11 more</item>
+                  <item>210 Item 12</item>
+                  <item>211 Item fig. 16</item>
+                  <item>212 ditto of the ſame 4 prints</item>
+                  <item>213 of the ſame fig. 13</item>
+                  <item>214 Item 21</item>
+                  <item>215 Opuſcula Bartel Bheen Heads very rare ditto fig. 9.</item>
+                  <item>216 Figure 13 of the ſame</item>
+                  <item>217 ditto 27 more</item>
+                  <item>218 Figure 51 ſeq.</item>
+                  <item>219 Item 25 more of the ſame.</item>
+                  <item>220 Fig. 49 of Jacob Binck. Some heads very rare.</item>
+                  <item>221 Item 32 of the ſame</item>
+                  <item>222 ditto 29 figures</item>
+               </list>
+               <list>
+                  <head>The Portofolio.</head>
+                  <item>223 Virgilii Solis opera circiter 600.</item>
+                  <item>224 Metamorphoſis Ovidii per Tempeſtam fig. 150</item>
+                  <item>225 Piae fraudes &amp; officioſa mendacia Eccleſiae Romanae ſive Ignatii Loyolae Impoſtoris famigeratiſſimi doli manifeſti, ficti &amp; editi per Jeſuitas. fig. 79.</item>
+                  <item>226 Biblia minora Tempeſtae fig. 240.</item>
+                  <item>227 Diaboli varii ad vivu<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n delineati Martyres rariſſ. Tempeſtae, fig. 80.</item>
+                  <item>228 Biblia Maxima Tempeſtae. Originales ſubjunguntur copiae fig. 48.</item>
+                  <item>229 Figurae ejuſdem Tempeſtae rarioris notae fig. 96.</item>
+                  <item>230 Landskips by Sadelaar fig. 150.</item>
+                  <item>231 of Glaude Landskips 19</item>
+                  <item>232 of Fr. de Neve &amp; Grin. Boloyneſe</item>
+                  <item>233 Biskops paradeignata artis graphices fig. 24.</item>
+                  <item>234—Statuae 100</item>
+                  <item>235 a fine Collection of la Poutre fig. 110.</item>
+                  <item>236 ditto 150 fig of the ſame, <hi>an Marroquir</hi>
+                  </item>
+                  <item>237 Venationes, piſcationes aucupia var. fig. 50. <hi>an Mar.</hi>
+                  </item>
+                  <item>238 Le fontane di Roma da G. Baptiſta Falda</item>
+                  <item>239 Statuae Perierii 100</item>
+                  <item>240 Colonna Trajana da <hi>P.</hi> Santio Bartoli fig. 190 editio ultima Bellorii Romae 1680.</item>
+                  <item>241 Aula Bononien. Annib. Carraccii per Tortebat fig. 15.</item>
+                  <item>242 Galeria Farneſiana ditto per Aquilam.
+<list>
+                        <item>— Item eadem per Ceſiur uno vol. in plano fig. 40.</item>
+                     </list>
+                  </item>
+                  <item>243 Several Potifolio's.</item>
+                  <item>
+                     <pb n="7" facs="tcp:31011:5"/>
+                     <!-- PDF PAGE 59 -->
+244 3 Landskips of Rubens</item>
+                  <item>245 6 prints of Babtiſto Bertano and others</item>
+                  <item>246 the Amazonian War in 6 ſheets very fine of Rubens</item>
+                  <item>247 our Saviour and the Fiſhermen in 3 parts ditto</item>
+                  <item>248 Herods Maſſacre a curious pc ditto</item>
+                  <item>249 4 prints of Permence and others</item>
+                  <item>250 20 of Muller and others</item>
+                  <item>251 4 of Titian, Pouſſin and others</item>
+                  <item>252 20 of Vandyke, Rubens and others</item>
+                  <item>253 the Fall of Lucifer in 2 ſheets by Rubens</item>
+                  <item>254 2 very fine of ditto</item>
+                  <item>255 5 of Raphiel and others</item>
+                  <item>256 Michaels War and 2 more of Rubens</item>
+                  <item>257 our Saviour bearing the Croſs, very fine of ditto</item>
+                  <item>258 the Deſtruction of Idolatry in 2 large ſheets ditto</item>
+                  <item>259 the Triumph of the Euchariſt very fine ditto</item>
+                  <item>260 4 large prints ditto</item>
+                  <item>261 2 Heads with curious Ornaments ditto</item>
+                  <item>262 Vandykes book of Heads numb. 104 very fine</item>
+                  <item>263 15 of Hemskirk and other good Maſters</item>
+                  <item>264 8 of Albert Durer</item>
+                  <item>265 20 by ſeveral good hands</item>
+                  <item>266 11 proſpects in Italy very fine</item>
+                  <item>267 14 of Rubens and other great Maſters</item>
+                  <item>268 5 of Sir peter Lilly and others</item>
+                  <item>269 5 of Albert Durer and others</item>
+                  <item>270 1 of Michael Angelo</item>
+                  <item>271 15 of Permence and others</item>
+                  <item>272 25 of Hemskirk and others</item>
+                  <item>273 20 more of ditto</item>
+                  <item>274 25 by ſeveral good hands</item>
+                  <item>275 10 by Albert Durer and others</item>
+                  <item>276 10 by Martin de Voſs and others</item>
+                  <item>277 12 by ſeveral hands</item>
+                  <item>278 4 pcs of proſpects by good Maſters</item>
+                  <item>279 15 by ſeveral hands</item>
+                  <item>280 13 heads of Livens</item>
+                  <item>281 6 Landskips of Perrell</item>
+                  <item>282 4 heads of Vandykes own hand</item>
+                  <item>283 a head by Rubens</item>
+                  <item>284 18 heads of Vandyke</item>
+                  <item>285 3 prints of Rembrant Van Kine</item>
+                  <item>286 our Saviour raiſing Lazarus very fine of Rubens</item>
+                  <item>287 4 curious prints of Rubens, Lilly and others</item>
+                  <item>288 2 prints of Rubens</item>
+                  <item>289 3 of Taddeo, Zuchero and others</item>
+                  <item>290 6 by ſeveral good hands</item>
+                  <item>291 the 12 Apoſtles by Lalleman</item>
+                  <item>292 4 of Rubens and Italian Maſters</item>
+                  <item>293 our Saviour in the Gard. wonderful fine of Bourdon</item>
+                  <item>
+                     <pb n="8" facs="tcp:31011:6"/>
+                     <!-- PDF PAGE 60 -->
+294 Two of Titian and Vandyke</item>
+                  <item>295 15 by ſeveral hands</item>
+                  <item>296 22 of Tempeſt and 5 of others</item>
+                  <item>297 3 viz the founder of the 7 Wonders of the World, and 2 of Rubens</item>
+                  <item>298 11 Sybils very fine of Rouſellet</item>
+                  <item>299 10 Good Mezo-Tinto prints</item>
+                  <item>300 10 of Travail, Repoſe and Sports by de Vos &amp; others</item>
+                  <item>301 13 good Landskips</item>
+                  <item>302 14 Emblems after Brover</item>
+                  <item>303 the 7 works of Mercy of Bourdon</item>
+                  <item>304 6 heads and a Rape pc of Muller</item>
+                  <item>305 12 prints, 8 Hiſtory and 4 heads</item>
+                  <item>306 14 Dutch Mechanicks after Rembrant</item>
+                  <item>307 diſpoſſeſſing a Demoniac of Goltius</item>
+                  <item>308 the offering to our Saviour by Jordaens</item>
+                  <item>309 a fine Original drawing of Brugel</item>
+                  <item>310 Diana and her Nymphs by Rubens,</item>
+                  <item>311 31 drawings</item>
+                  <item>312 4 prints of Teſta, Corregio, Mich Angelo, &amp; Raphie<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </item>
+                  <item>313 8 from Pouſſin, Bowerman and others</item>
+                  <item>314 10 from Bourdon, Tintoret and others</item>
+                  <item>315 6 Italian, from Teſta, Tintoret and others</item>
+                  <item>316 a curious print of Fredericus. Zuccharius</item>
+                  <item>317 8 from Carracci, Vandyke, Raphiel and others</item>
+                  <item>318 8 from Carracci, Pouſſin, Baſſan and others</item>
+                  <item>319 10 from Raphiel and others</item>
+                  <item>320 6 of Goltius, Mich. Angelo and others</item>
+                  <item>321 10 very fine Italian and French prints</item>
+                  <item>322 12 from Barocius, Raphiel and others</item>
+                  <item>323 10 from Blomart, Tempeſt, Titian and others</item>
+                  <item>324 6 curious prints from Julio Romano and others</item>
+                  <item>325 Moſes in the Ruſhes</item>
+                  <item>326 12 of Julius Mautuanus, de Voſs and others</item>
+                  <item>327 10 of Baſſan, Vovet, and other great Maſters</item>
+                  <item>328 5 of Vovet very fine</item>
+                  <item>329 17 of Vander Cabel and others</item>
+                  <item>330 15 drawings of Montangre and others</item>
+                  <item>331 a curious Drawing of the Nativity</item>
+                  <item>332 16 Drawings more</item>
+                  <item>333 18 ditto</item>
+                  <item>334 17 drawings and Sketches of Flowers</item>
+                  <item>335 6 poſtures of Lilly</item>
+                  <item>336 6 more ditto</item>
+                  <item>337 6 more of Lilly and others</item>
+                  <item>338 20 drawings of Landskips</item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:31011:6"/>
+            <!-- PDF PAGE 60 -->
+         </div>
+      </body>
+   </text>
+</TEI>
